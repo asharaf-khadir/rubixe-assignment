@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7934b4ed.css",
+    "main.js": "/static/js/main.4c4abd8d.js",
+    "static/media/rubixe-logo.png": "/static/media/rubixe-logo.c35abc072e44ef666426.png",
+    "static/media/students_banner.jpg": "/static/media/students_banner.62606e15f88164a15e62.jpg",
+    "static/media/meeting_people.png": "/static/media/meeting_people.3221731ff94ed103b190.png",
+    "static/media/ai-men.png": "/static/media/ai-men.d8044c942cb60af0af58.png",
+    "static/media/ai-chipos.png": "/static/media/ai-chipos.a39c197ddc26bec1206e.png",
+    "static/media/ai-brainos.png": "/static/media/ai-brainos.48620542f6dd1ebda48f.png",
+    "static/media/ai-computer.png": "/static/media/ai-computer.8c5b57b83573706c4e5a.png",
+    "static/media/ai-teachos.png": "/static/media/ai-teachos.fcdda16e9c58121c1dec.png",
+    "index.html": "/index.html",
+    "main.7934b4ed.css.map": "/static/css/main.7934b4ed.css.map",
+    "main.4c4abd8d.js.map": "/static/js/main.4c4abd8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7934b4ed.css",
+    "static/js/main.4c4abd8d.js"
+  ]
+}
